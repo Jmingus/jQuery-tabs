@@ -3587,3 +3587,6 @@ ul.dropdown li.divider {
     max-width: 100% !important; }
   select {
     background: #fff !important; } }
+
+div {
+  display: none; }
